@@ -1,0 +1,7 @@
+{% extends "index.html" %}
+
+{% block content %}
+    {% set active_page = page %}
+
+
+{% endblock %}

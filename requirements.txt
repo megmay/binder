@@ -1,0 +1,13 @@
+Flask==0.12.1
+Jinja2==2.10
+MarkupSafe==1.0
+Werkzeug==0.14.1
+googleapis-common-protos==1.5.3
+httplib2==0.11.3
+plaid-python==2.2
+pyasn1-modules==0.2.2
+requests-toolbelt==0.7.0
+pyasn1==0.4.4
+requests==2.11.1
+rsa==3.4.2
+six==1.11.0
