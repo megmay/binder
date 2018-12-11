@@ -1,4 +1,4 @@
-Flask==0.12.1
+Flask>=0.12.3
 Jinja2==2.10
 MarkupSafe==1.0
 Werkzeug==0.14.1
@@ -8,6 +8,6 @@ plaid-python==2.2
 pyasn1-modules==0.2.2
 requests-toolbelt==0.7.0
 pyasn1==0.4.4
-requests==2.11.1
+requests>=2.20.0
 rsa==3.4.2
 six==1.11.0
